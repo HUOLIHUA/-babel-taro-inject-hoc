@@ -1,0 +1,28 @@
+{
+  "name": "-babel-taro-inject-hoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/generator": "^7.20.4",
+    "@babel/types": "^7.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUOLIHUA/-babel-taro-inject-hoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUOLIHUA/-babel-taro-inject-hoc/issues"
+  },
+  "homepage": "https://github.com/HUOLIHUA/-babel-taro-inject-hoc#readme"
+}
